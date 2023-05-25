@@ -1,9 +1,20 @@
 # Memoteca Angular Alura
- Desenvolvido em aula
+
+![preview](./.github/preview.png)
+
+
+Desenvolvido durante aula de Angular na plataforma Alura.
+
+
+## 💻 Tecnologia
+
+- Angular
+
+
+## Referência
+
+- [alura] [https://www.alura.com.br/]
 
 
 
-html / css
-https://github.com/alura-cursos/2438-angular-memoteca/blob/aula-1/src/app/componentes/cabecalho/cabecalho.component.html
 
-https://github.com/alura-cursos/2438-angular-memoteca/blob/aula-3/src/app/componentes/pensamentos/listar-pensamento/listar-pensamento.component.css
